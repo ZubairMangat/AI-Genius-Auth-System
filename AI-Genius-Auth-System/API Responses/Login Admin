@@ -1,0 +1,1 @@
+{"success":true,"message":"Login successful","accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEiLCJlbWFpbCI6ImFkbWluQGFpZ2VuaXVzLmNvbSIsInJvbGUiOiJBZG1pbiIsImlhdCI6MTc4MDMyMTg0NiwiZXhwIjoxNzgwMzIyNzQ2fQ.MgMAXdIVPVEZDdZ5IEbGsSC92teSJ9tniBI0SZ5X01w","user":{"id":"1","email":"admin@aigenius.com","role":"Admin"}}
